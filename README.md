@@ -107,7 +107,7 @@ Flip-Flop Ratio ≈ 0.1084 (or 10.84%)
 #### Screenshot of synthesis report
 
 ***Total number of cells***
-![Screenshot](PROGRESS/DAY_01/Images/total_number_of_cells.png)
+![Screenshot](PROGRESS/DAY_01/Images/total_numbers_of_cells.png)
 
 ***Total number of flip flops***
 ![Screenshot](PROGRESS/DAY_01/Images/Total_number_of_fifos.png)
