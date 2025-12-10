@@ -1,7 +1,6 @@
 # DIGITAL_VLSI_SOC_DESIGN_AND_PLANNING
 
 
-
 This project demonstrates the complete RTL-to-GDSII physical design flow using the **OpenLANE** toolchain and the **SkyWater SKY130 PDK**, starting from Verilog RTL and ending with a manufacturable GDSII layout.
 
 
@@ -14,6 +13,7 @@ This project demonstrates the complete RTL-to-GDSII physical design flow using t
 - Downloaded the **openlane.vdi** file. 
 - Imported the VDI into the Virtual Machine. 
 - Navigated to the OpenLANE working directory:<br>
+
    ```bash
     vsduser@vsdsquadron:~/Desktop/work/tools/openlane_working_dir/openlane
    ```
@@ -38,8 +38,9 @@ This project demonstrates the complete RTL-to-GDSII physical design flow using t
 ```
 Creates the required **runs/** directory and prepares all configuration files needed for the flow.
 
+Screenshot of setup commands
 
-
+![Screenshot](PROGRESS/DAY_01/Images/Setup_docker.png)
 
 
 
@@ -104,6 +105,15 @@ Flop Ratio = 1613 / 14676 ≈ 0.1084
 Flip-Flop Ratio ≈ 0.1084 (or 10.84%)
 ```
 #### Screenshot of synthesis report
+
+total number of cells
+![Screenshot](PROGRESS/DAY_01/Images/total_number_of_cell.png)
+
+total number of flip flops
+
+![Screenshot](PROGRESS/DAY_01/Images/Total_number_of_fifos.png)
+
+
 
 ---
 
