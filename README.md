@@ -39,8 +39,7 @@ This project demonstrates the complete RTL-to-GDSII physical design flow using t
 Creates the required **runs/** directory and prepares all configuration files needed for the flow.
 
 Screenshot of setup commands
-
-![Screenshot](PROGRESS/DAY_01/Images/Setup_docker.png)
+![Screenshot](PROGRESS/DAY_01/Images/Setup_docker_1.png)
 
 
 
@@ -76,11 +75,17 @@ This command executes Yosys + ABC to generate the synthesized netlist and cell s
 
 
 #### I) Screenshot for run_synthesis cmd
+![Screenshot](PROGRESS/DAY_01/Images/run_synthesis_1.png)
+![Screenshot](PROGRESS/DAY_01/Images/run_synthesis_2.png)
 
 #### II) Screenshot of the files that is being generate after run_synthesis
+![Screenshot](PROGRESS/DAY_01/Images/synthesis_report_file.png)
+
+
 
 
 ### **b) Calculation for D flipflop ratio**
+
 
 The synthesis report provides two key values:
 
