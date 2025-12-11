@@ -23,10 +23,10 @@
 
 
 #### I) Screenshot for configuration file 
-![Screenshot](PROGRESS/DAY_03/images/Floor_configuration_file.png)
+![Screenshot](PROGRESS/DAY_03/Images/Floor_configuration_file.png)
 
 #### II) Screenshot for IO_MODE = 0
-![Screenshot](PROGRESS/DAY_03/images/io_mode_0.png)
+![Screenshot](Images/io_mode_0.png)
 
 #### III) Screenshot for IO_MODE = 1
 ![Screenshot](PROGRESS/DAY_03/images/io_mode_1.png)
