@@ -80,16 +80,16 @@ ext2spice cthresh 0 rthresh 0
 ext2spice
 ```
 This produces a file such as sky130_inv.spice, containing the extracted netlist from the layout.
-![Screenshot](PROGRESS/DAY_03/images/extracting_from_layout.png)
+![Screenshot](Images/extracting_from_layout.png)
 
 Changing the sky130_inv.spice file 
-![Screenshot](PROGRESS/DAY_03/images/sky130_inv_spice_file.png)
+![Screenshot](Images/sky130_inv_spice_file.png)
 
 running the ngspice applicaton with the modified spice file
 ```
 $ ngspice sky130_inv.spice 
 ```
-![Screenshot](PROGRESS/DAY_03/images/waveform.png)
+![Screenshot](Images/waveform.png)
 
 
 ---
@@ -137,6 +137,6 @@ cell fall delay = x1 − x0 = 4.05001e-09 − 4.05326e-09 = −0.00325e-09 s = 3
 
 
 **Characterization of inverter**
-![Screenshot](PROGRESS/DAY_03/images/characteristics.png)
+![Screenshot](Images/characteristics.png)
 
 ----
