@@ -1,8 +1,4 @@
-
-
 # Day 3
-
-
 
 
 ## Lab
@@ -25,13 +21,13 @@
 
 
 #### I) Screenshot for configuration file 
-![Screenshot](PROGRESS/DAY_03/images/Floor_configuration_file.png)
+![Screenshot](Images/Floor_configuration_file.png)
 
 #### II) Screenshot for IO_MODE = 0
-![Screenshot](PROGRESS/DAY_03/images/io_mode_0.png)
+![Screenshot](Images/io_mode_0.png)
 
 #### III) Screenshot for IO_MODE = 1
-![Screenshot](PROGRESS/DAY_03/images/io_mode_1.png)
+![Screenshot](Images/io_mode_1.png)
 
 ### B) Cloning the Standard Cell Design Repository 
 To access the vsdstdcelldesign repository, the following git command is used:
@@ -40,7 +36,7 @@ To access the vsdstdcelldesign repository, the following git command is used:
 git clone https://github.com/nickson-jose/vsdstdcelldesign.git
 ```
 #### Screenshot of git clone
-![Screenshot](PROGRESS/DAY_03/images/git_clone.png)
+![Screenshot](Images/git_clone.png)
 
 ### C) Inspecting Layout Layers Using Magic
 - To analyze the standard cell layout visually, the Magic layout file (sky130_inv.mag) must be opened using the correct Sky130 technology file (sky130A.tech).
@@ -59,13 +55,14 @@ magic -T sky130A.tech sky130_inv.mag &
 ```
 
 #### I) Screenshot of the layout of an inverter
-![Screenshot](PROGRESS/DAY_03/images/layout_inv.png)
+![Screenshot](Images/layout_inv.png)
 
 #### II) Screenshot of the nmos in the layout
-![Screenshot](PROGRESS/DAY_03/images/nmos.png)
+![Screenshot](Images/nmos.png)
 
 #### III) Screenshot of the ploysilicon
-![Screenshot](PROGRESS/DAY_03/images/ploysilicon.png)
+![Screenshot](Images/ploysilicon.png)
+
 
 ### D) Creating the Standard Cell Layout and Extracting the SPICE Model
 
