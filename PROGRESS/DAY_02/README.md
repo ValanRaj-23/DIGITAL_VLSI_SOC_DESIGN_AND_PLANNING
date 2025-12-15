@@ -72,3 +72,4 @@ magic -T /home/vsduser/Desktop/work/tools/openlane_working_dir/pdks/sky130A/libs
 ```
 ![Screenshot](placement1.png)
 ![Screenshot](placement2.png)
+----
